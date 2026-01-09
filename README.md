@@ -43,7 +43,7 @@ Database:
 
 AI Integration:
 - Groq SDK
-- Mixtral-8x7b-32768 Model
+- llama-3.3-70b-versatile
 
 Security:
 - Helmet.js (Secure HTTP Headers)
@@ -129,3 +129,4 @@ Deepesh Yadav
 
 GitHub: https://github.com/deepeshyadav760  
 LinkedIn: https://www.linkedin.com/in/deepesh-yadav-b29a29250/
+
