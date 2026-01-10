@@ -131,7 +131,7 @@ function App() {
       </main>
 
       <footer className="admin-footer">
-        <p>© 2024 Fynd. All rights reserved.</p>
+        <p>© 2026 Deepesh Yadav. All rights reserved.</p>
         {!isLoading && reviews.length > 0 && (
           <p className="update-time">
             Last updated: {new Date().toLocaleTimeString()}
